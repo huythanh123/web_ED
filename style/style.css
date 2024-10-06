@@ -317,6 +317,7 @@ a:focus {
   height: 12px;
   border-radius: 100%;
   opacity: 1;
+  margin: 3px;
 }
 
 .slider_section .carousel-indicators li.active {
